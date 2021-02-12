@@ -1,2 +1,2 @@
 # html-css
-Pagina web diseñada con HTML y CSS
+Página web diseñada con HTML y CSS
